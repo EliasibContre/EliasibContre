@@ -4,7 +4,7 @@ Hola soy Eliasib. Soy estudiante de ingenieria en tecnologias de la informacion,
 -Python
 -c++
 -Kotlin
-Con conocimientos avanzados en el patron de diseño MVC (Model View Controller) con PHP, tambien conocimientos ene kotlin para la creacion de aplicaciones moviles
+Con conocimientos avanzados en el patron de diseño MVC (Model View Controller) con PHP, tambien conocimientos ene kotlin para la creacion de aplicaciones moviles. 
 Hello, I'm Eliasib. I am a student of Information Technology Engineering, focusing more on the systems area. My favorite programming languages include:
 
 Java
