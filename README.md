@@ -9,6 +9,7 @@
 
 [//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
+
 <div align="left">
 
 ```js
@@ -33,7 +34,8 @@
 ```
 
 </div>
-<br>
+
+---
 ## 🛠 &nbsp;Tech Stack
 
 #### 🔧 Languages & DB
@@ -85,7 +87,31 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
+---
 
+## 📌 Featured projects 
+
+- 🛒 **Grupo Forpa** — Sistema de gestión para ferretería (**15k+ productos**). Migración a **microservicios con NestJS**, integración backend ↔ frontend (Nuxt.js), despliegue en Render y AWS Amplify, posteriormente migrado a railway    
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EliasibContre&show_icons=true&theme=calm&hide_border=true&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasibContre&layout=compact&theme=calm&hide_border=true&langs_count=6" height="160" />
+</p>
+
+---
+
+## Contact us
+<a href="cesareliasib018@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+
+<a href="https://github.com/EliasibContre" target="_blank">
+<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<a href="www.linkedin.com/in/eliasibcontreras" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 
 
 
